@@ -99,7 +99,7 @@ int main() {
 
 
 
-	//supprimer la mémoire allouée avec les pointeurs :
+	//fin du programme :
 	cout << endl << endl << "_____________________________________________Fin du programme:____________________________________" << endl << endl;
 
 
